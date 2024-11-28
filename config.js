@@ -29,7 +29,7 @@ global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2";
 
 
 //
-global.sessionName = "session";                          //Do not change.
+global.sessionName = "levanter_28a43c8ecd28f14981ba272639b83eee64";                          //Do not change.
 
 
 //
